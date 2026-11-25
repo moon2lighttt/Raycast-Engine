@@ -1,0 +1,14 @@
+# Cmake build directory 
+build/
+
+# Compiled files
+*.o
+*.a
+*.dylib
+*.so
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
